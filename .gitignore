@@ -1,0 +1,6 @@
+venv/
+sentences/
+attention.zip/
+attention.zip
+*.png
+.DS_Store
